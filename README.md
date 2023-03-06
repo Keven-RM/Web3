@@ -1,4 +1,4 @@
-<center>
+<center style="display: inline-flex">
 <img src="https://angular.io/assets/images/logos/angular/angular.svg"
 width="100"
 alt="Angular Logo" >
