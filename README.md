@@ -1,3 +1,4 @@
+<center>
 <img src="https://angular.io/assets/images/logos/angular/angular.svg"
 width="100"
 alt="Angular Logo" >
@@ -9,6 +10,7 @@ alt="Vue.js Logo" >
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
 width="100"
 alt="React.js Logo" >
+</center>
 
 # Tecnologias da Web3
 
